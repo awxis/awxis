@@ -2,8 +2,10 @@
 
 **Full Stack .NET Developer** · Lahore, Pakistan
 
-I build regulated fintech on .NET — loan origination, KYC and credit-bureau
-integration, running at 100,000+ loan applications a month.
+I design REST APIs, build Angular and React frontends, model SQL Server
+databases, and ship desktop and real-time systems into production. Deepest
+work: regulated fintech — loan origination, KYC and credit-bureau integration
+at 100,000+ loan applications a month.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-awais-bb24a732b/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:owaismuhammad060@gmail.com)
